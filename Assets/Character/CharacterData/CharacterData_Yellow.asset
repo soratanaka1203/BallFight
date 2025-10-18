@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faf768283903ddb4c88865a3fdb1f4db, type: 3}
+  m_Name: CharacterData_Yellow
+  m_EditorClassIdentifier: 
+  characterName: Yellow
+  characterIcon: {fileID: 21300000, guid: 415033f1b76f73540b12bbf8bea54304, type: 3}
+  characterPrefab: {fileID: 6195580183478944791, guid: d6572dbedb443d44dbc1f4d9d99277fd, type: 3}
+  skill: {fileID: 11400000, guid: 934aa91b7c7bfd1469dea97ea6f9819e, type: 2}

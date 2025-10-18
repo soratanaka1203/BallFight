@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dd0411ce7e255c42acddbbc9e321ed0, type: 3}
+  m_Name: FireballSkill 1
+  m_EditorClassIdentifier: 
+  skillName: FIreBall
+  description: 
+  cooldownTime: 10
+  skillEffectPrefab: {fileID: 2504214343621411470, guid: 3ed0d324122d7b24eaec75c55c74aafc, type: 3}
+  skillSE: {fileID: 8300000, guid: be304b3de3b31854c95a0bb6e188b828, type: 3}
+  fireballPrefab: {fileID: 3912919207047340817, guid: a834379586bc58b479aad841ccc70835, type: 3}
+  fireballSpeed: 20
+  fireballOffset: 4
